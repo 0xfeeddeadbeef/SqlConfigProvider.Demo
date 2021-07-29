@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlConfigProvider.Demo", "src\SqlConfigProvider.Demo\SqlConfigProvider.Demo.csproj", "{1E6535A6-C646-475E-B206-6CE685039E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E6535A6-C646-475E-B206-6CE685039E7D}.Debug|x64.ActiveCfg = Debug|x64
+		{1E6535A6-C646-475E-B206-6CE685039E7D}.Debug|x64.Build.0 = Debug|x64
+		{1E6535A6-C646-475E-B206-6CE685039E7D}.Release|x64.ActiveCfg = Release|x64
+		{1E6535A6-C646-475E-B206-6CE685039E7D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F611890-556E-431F-8923-F605B355E042}
+	EndGlobalSection
+EndGlobal
